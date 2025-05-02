@@ -1,28 +1,6 @@
 this is my website
 
-<!--
-**RegieDeebleJackson/RegieDeebleJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
+this is my website for computer techniques, a class I'm taking my second semester of cooper union art school. I have two dogs and one cat and a whole head of gold hair and gold skin and gold eyes and gold teeth and gold blood. I sink in water.
 Alt-H1
 ======
 
