@@ -36,6 +36,14 @@ this is my website for computer techniques, a class I'm taking my second semeste
 
 
 
+[photos.zip](https://github.com/user-attachments/files/20256701/photos.zip)
+
+
+
+
+
+
+
 
 
 
