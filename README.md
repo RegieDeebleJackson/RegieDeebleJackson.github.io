@@ -32,3 +32,10 @@ this is my website for computer techniques, a class I'm taking my second semeste
 
 
 
+![Color square](https://github.com/user-attachments/assets/b1b62bdb-8e28-4525-8261-8928bc3ed638)
+
+
+
+
+
+
