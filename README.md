@@ -26,3 +26,6 @@ this is my website for computer techniques, a class I'm taking my second semeste
 
 ![17](https://github.com/user-attachments/assets/1320fb0f-c33a-46cf-9680-6c079ed3feb8)
 
+
+
+![IMG_1964](https://github.com/user-attachments/assets/ced7f0f0-de34-4579-ad2d-1840d78feec5)
