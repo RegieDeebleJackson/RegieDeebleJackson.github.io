@@ -12,9 +12,17 @@ this is my website for computer techniques, a class I'm taking my second semeste
 
 
 
-
 ![Blobert](https://github.com/user-attachments/assets/fd063d4a-7f2a-42e6-8662-228c59c55680)
 
 
 
+![1xbackinside](https://github.com/user-attachments/assets/cf8c2ac6-95b2-4c00-b709-21119b901e3e)
+
+
+
+![5 - Back](https://github.com/user-attachments/assets/f638a901-25b0-4d33-907d-03fb0b0b0bbd)
+
+
+
+![17](https://github.com/user-attachments/assets/1320fb0f-c33a-46cf-9680-6c079ed3feb8)
 
