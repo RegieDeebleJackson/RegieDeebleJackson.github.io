@@ -1,6 +1,6 @@
 this is my website
 
-this is my website for computer techniques, a class I'm taking my second semester of cooper union art school. I have two dogs and one cat and a whole head of gold hair and gold skin and gold eyes and gold teeth and gold blood. I sink in water.
+this is my website for computer techniques, a class I'm taking my second semester of cooper union art school. I have two dogs and one cat and a whole head of gold hair and gold skin and gold eyes and gold teeth. I sink in water.
 
 
 
