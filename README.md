@@ -36,12 +36,15 @@ this is my website for computer techniques, a class I'm taking my second semeste
 
 
 
-[photos.zip](https://github.com/user-attachments/files/20256701/photos.zip)
+![IMG_0682](https://github.com/user-attachments/assets/e0470e1b-8751-4474-b414-b94cfbe07c46)
 
 
 
+![IMG_0725](https://github.com/user-attachments/assets/e8630dd3-553b-440c-be83-3577a048e819)
 
 
+
+![IMG_1635](https://github.com/user-attachments/assets/c6c8ee34-ef1e-4216-b81e-58bf6efc17a1)
 
 
 
